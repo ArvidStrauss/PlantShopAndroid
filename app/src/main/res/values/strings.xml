@@ -1,0 +1,30 @@
+<resources>
+    <!-- Activity_main -->
+    <string name="app_name">PlantShop</string>
+    <string name="welcome_slogan">Welcome to PlantShop</string>
+    <string name="register_btn">Join Now</string>
+    <string name="login_btn">Already have an Account? Login</string>
+    <string name="check_website">Check out our Website!</string>
+
+    <!-- Login Activity -->
+    <string name="remember_me">Remember Me</string>
+    <string name="username">Name</string>
+    <string name="password">Password</string>
+    <string name="admin">I\'m an admin</string>
+    <string name="no_admin">I\'m not an admin</string>
+    <string name="login">Login</string>
+
+    <!-- Registration Activity -->
+    <string name="register">Register</string>
+    <string name="accept_terms"><![CDATA[Accept Terms & Conditions]]></string>
+    <string name="repeat_password">Repeat Password</string>
+
+    <!-- Home Activity -->
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_logout">Logout</string>
+
+</resources>

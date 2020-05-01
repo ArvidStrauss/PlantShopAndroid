@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1093139786908",
+    "firebase_url": "https://plantshop-707a2.firebaseio.com",
+    "project_id": "plantshop-707a2",
+    "storage_bucket": "plantshop-707a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093139786908:android:8d74611970f3f2ae2f9159",
+        "android_client_info": {
+          "package_name": "com.example.plantshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093139786908-c2grkktlj62mbrcnkachacuad6abvco9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantshop",
+            "certificate_hash": "039166ca647eb30bd645957909554244fafef4f0"
+          }
+        },
+        {
+          "client_id": "1093139786908-kpjg9gnhmbrfddh441rmip8rshhueg54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARekp824uS1-cUPjj4oRKiEAWJaTcrdBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093139786908-kpjg9gnhmbrfddh441rmip8rshhueg54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
